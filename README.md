@@ -1,3 +1,3 @@
-# CarRacingGame1.0
+# Quiz
 Quiz - quiz
 
